@@ -23,3 +23,4 @@ cacheinverse <- function(x, ...) {
   x$setmean(i)
   i
 }
+#Rafa agregó esto
